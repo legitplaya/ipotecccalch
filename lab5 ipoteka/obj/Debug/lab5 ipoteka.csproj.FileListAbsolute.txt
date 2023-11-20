@@ -1,0 +1,10 @@
+C:\Users\ip521-20\source\repos\lab5 ipoteka\lab5 ipoteka\bin\Debug\lab5 ipoteka.exe.config
+C:\Users\ip521-20\source\repos\lab5 ipoteka\lab5 ipoteka\bin\Debug\lab5 ipoteka.exe
+C:\Users\ip521-20\source\repos\lab5 ipoteka\lab5 ipoteka\bin\Debug\lab5 ipoteka.pdb
+C:\Users\ip521-20\source\repos\lab5 ipoteka\lab5 ipoteka\obj\Debug\lab5 ipoteka.csprojAssemblyReference.cache
+C:\Users\ip521-20\source\repos\lab5 ipoteka\lab5 ipoteka\obj\Debug\lab5_ipoteka.Form1.resources
+C:\Users\ip521-20\source\repos\lab5 ipoteka\lab5 ipoteka\obj\Debug\lab5_ipoteka.Properties.Resources.resources
+C:\Users\ip521-20\source\repos\lab5 ipoteka\lab5 ipoteka\obj\Debug\lab5 ipoteka.csproj.GenerateResource.cache
+C:\Users\ip521-20\source\repos\lab5 ipoteka\lab5 ipoteka\obj\Debug\lab5 ipoteka.csproj.CoreCompileInputs.cache
+C:\Users\ip521-20\source\repos\lab5 ipoteka\lab5 ipoteka\obj\Debug\lab5 ipoteka.exe
+C:\Users\ip521-20\source\repos\lab5 ipoteka\lab5 ipoteka\obj\Debug\lab5 ipoteka.pdb
